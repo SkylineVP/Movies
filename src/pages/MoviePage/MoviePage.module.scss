@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+.details {
+  margin-left: 30px;
+  flex-grow: 1;
+}
+.titleContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.cast{
+  margin-bottom: 20px;
+}

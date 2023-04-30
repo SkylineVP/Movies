@@ -1,0 +1,13 @@
+.container {
+  flex-shrink: 0;
+  overflow: hidden;
+  cursor: pointer;
+  img{
+    object-position: center bottom;
+    height: 400px;
+  }
+
+}
+.container + .container {
+  margin-left: 20px;
+}

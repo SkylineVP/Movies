@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  border-bottom: 1px solid #09abc3;
+}
+
+.title {
+  overflow-wrap: break-word;
+  width: 140px;
+  font-size: 25px;
+  text-decoration: none;
+}

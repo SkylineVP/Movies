@@ -1,0 +1,16 @@
+.genreContainer {
+  width: 100%;
+  padding: 10px 20px;
+}
+.genreName {
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+.moviesContainer {
+  width: 100%;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+}
